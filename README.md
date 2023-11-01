@@ -1,1 +1,1 @@
-# apex-legends-autoexec
+# Apex Legends Autoexec
