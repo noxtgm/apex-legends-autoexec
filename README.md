@@ -1,7 +1,15 @@
 <div align=center style="text-align: center;">
 <h1>Apex Legends Autoexec</h1>
-This is an in-depth autoexec for Apex Legends, it is a combination of my personnal and other autoexecs I found online such as [Couleur's](https://github.com/couleur-tweak-tips/utils/blob/main/Patchers/Apex%20Settings%20Patcher/autoexec.cfg). You'll find a bunch of optimizations that will make your game look awful but give you an incredibly smooth experience with a constant 300 fps in most scenarios as well as very good visibility.
+This is an in-depth autoexec for Apex Legends, it is a combination of my personnal and other autoexecs I found online such as Couleur's. You'll find a bunch of optimizations that will make your game look awful but give you an incredibly smooth experience with a constant 300 fps in most scenarios as well as very good visibility.
 </div>
+
+###
+
+<div align=center style="text-align: center;"><h2>INSTALLATION</h2></div>
+
+* Download `autoexec.cfg` and paste it in `Apex Legends\cfg\`
+* Launch Steam, right click on Apex Legends, and click on `Properties`
+* Inside the `Launch Options` type the following `+exec autoexec.cfg`
 
 ###
 
