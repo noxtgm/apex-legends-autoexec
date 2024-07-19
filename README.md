@@ -15,7 +15,7 @@ This is an in-depth autoexec for Apex Legends, it is a combination of my personn
 
 <div align=center style="text-align: center;"><h2>LICENSE</h2></div>
 
-[Mozilla Public License 2.0](https://choosealicense.com/licenses/mpl-2.0/)
+[MIT License](https://choosealicense.com/licenses/mit/)
 
 ###
 
