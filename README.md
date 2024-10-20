@@ -4,7 +4,7 @@ This is an in-depth autoexec for Apex Legends, it is a combination of my personn
 
 ## 📖 Installation
 
-* Download `autoexec.cfg` and paste it in `\Apex Legends\cfg\`
+* Download `autoexec.cfg` and paste it in `..\Apex Legends\cfg\`
 * Launch Steam, right click on Apex Legends, and click on `Properties`
 * Inside the `Launch Options` type the following `+exec autoexec.cfg`
 
