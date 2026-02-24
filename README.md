@@ -10,7 +10,7 @@ An in-depth autoexec for Apex Legends, it is a combination of my personnal and o
 
 ## 📄 License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT License](https://choosealicense.com/licenses/mit/)
 
 <br>
 
